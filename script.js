@@ -7,5 +7,5 @@ convertbtn.addEventListener("click", function() {
 })
 
 function sendURL(URL){
-    window.location.href = `http://localhost:3000/download?URL=${URL}`;
+    window.location.href = `https://firstwebsiteyt2mp3.herokuapp.com/download?URL=${URL}`;
 }
