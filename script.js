@@ -7,5 +7,5 @@ convertbtn.addEventListener("click", function() {
 })
 
 function sendURL(URL){
-    window.location.href = `https://firstwebsiteyt2mp3.herokuapp.com/download?URL=${URL}`;
+    window.location.href = `https://a7fd-101-51-8-95.ngrok.io/download?URL=${URL}`;
 }
